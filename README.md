@@ -2,7 +2,7 @@
 
 Repository for my coding test studying. Several coding judge site's(Baekjoon, Codeup, etc.) problem solutions, book solution codes are here.
 
-## what's in here
+## What's in here
 
 ### [Baekjoon](https://www.acmicpc.net/) problem solutions
 
@@ -13,3 +13,6 @@ Repository for my coding test studying. Several coding judge site's(Baekjoon, Co
 
 - Section where I studying coding test with above book.
 - answer codes I solve will be at here.
+
+## Solutions by used algorithm
+
