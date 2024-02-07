@@ -16,7 +16,7 @@ Repository for my coding test studying. Several coding judge site's(Baekjoon, Co
 - Section where I studying coding test with above book. / 위 책을 보고 공부한 코드들이 있습니다.
 - answer codes I solve will be at here. / 제가 푼 문제들의 코드가 여기 있을 예정입니다.
 
-### [CodeUp] problem solutions
+### [CodeUp](https://codeup.kr/index.php) problem solutions
 
 - Solutions written in Python / Python으로 코드들이 작성되었습니다.
 - Solutions are submitted and get successed. / "정확한 풀이"라고 받은 문제들만 올라와있습니다.
