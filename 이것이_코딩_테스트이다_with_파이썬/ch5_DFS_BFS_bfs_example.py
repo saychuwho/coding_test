@@ -1,3 +1,5 @@
+""" example code from book """
+
 from collections import deque
 
 def bfs(graph, start, visited):
