@@ -19,10 +19,10 @@ Repository for my coding test studying. Several coding judge site's(Baekjoon, Co
 
 - 현재까지 완료한 장
   - 파트 2 주요 알고리즘 이론과 실전 문제
-  	- [x] 챕터 3 그리디
-  	- [x] 챕터 4 구현
-  	- [x] 챕터 5 DFS/BFS
-  	- [x] 챕터 6 정렬
+  	- [x] 챕터 3 그리디 / [2번](/이것이_코딩_테스트이다_with_파이썬/ch3_greedy_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch3_greedy_3.py) / [4번](/이것이_코딩_테스트이다_with_파이썬/ch3_greedy_4.py)
+  	- [x] 챕터 4 구현 / [예제 1번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_1_1.py) / [예제 2번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_1_2.py) / [2번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_3.py)
+  	- [x] 챕터 5 DFS/BFS / [DFS 예시](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_dfs_example.py) / [BFS 예시](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_bfs_example.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_3.py) / [4번](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_4.py)
+  	- [x] 챕터 6 정렬 / [삽입 정렬 예시](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_insertion_sort.py) / [선택 정렬 예시](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_selection_sort.py) / [퀵 정렬 예시 1](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_quick_sort.py) / [퀵 정렬 예시 2](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_quick_sort_efficient.py) / [계수 정렬 예시](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_counting_sort.py) / [2번](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_3.py) / [4번](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_4.py)
   	- [ ] 챕터 7 이진 탐색
   	- [ ] 챕터 8 다이나믹 프로그래밍
   	- [ ] 챕터 9 최단 경로
