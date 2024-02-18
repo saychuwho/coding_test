@@ -23,7 +23,7 @@ Repository for my coding test studying. Several coding judge site's(Baekjoon, Co
   	- [x] 챕터 4 구현 / [예제 1번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_1_1.py) / [예제 2번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_1_2.py) / [2번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch4_implement_3.py)
   	- [x] 챕터 5 DFS/BFS / [DFS 예시](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_dfs_example.py) / [BFS 예시](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_bfs_example.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_3.py) / [4번](/이것이_코딩_테스트이다_with_파이썬/ch5_DFS_BFS_4.py)
   	- [x] 챕터 6 정렬 / [삽입 정렬 예시](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_insertion_sort.py) / [선택 정렬 예시](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_selection_sort.py) / [퀵 정렬 예시 1](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_quick_sort.py) / [퀵 정렬 예시 2](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_quick_sort_efficient.py) / [계수 정렬 예시](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_1_counting_sort.py) / [2번](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_3.py) / [4번](/이것이_코딩_테스트이다_with_파이썬/ch6_sorting_4.py)
-  	- [ ] 챕터 7 이진 탐색
+  	- [x] 챕터 7 이진 탐색 / [순차 탐색 예시](/이것이_코딩_테스트이다_with_파이썬/ch7_binary_search_1_sequential_search.py) / [재귀 이진 탐색 예시](/이것이_코딩_테스트이다_with_파이썬/ch7_binary_search_1_binary_search_recurssion.py) / [반복문 이진 탐색 예시](/이것이_코딩_테스트이다_with_파이썬/ch7_binary_search_1_binary_search_iteration.py) / [2번](/이것이_코딩_테스트이다_with_파이썬/ch7_binary_search_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch7_binary_search_3.py)
   	- [ ] 챕터 8 다이나믹 프로그래밍
   	- [ ] 챕터 9 최단 경로
   	- [ ] 챕터 10 그래프이론
