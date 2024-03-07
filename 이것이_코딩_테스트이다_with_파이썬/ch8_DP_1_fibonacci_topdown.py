@@ -1,3 +1,5 @@
+""" example code from book """
+
 d = [0] * 100
 
 def fibo(x):

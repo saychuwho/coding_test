@@ -1,3 +1,5 @@
+""" example code from book """
+
 d = [0] * 100
 
 d[1] = 1
