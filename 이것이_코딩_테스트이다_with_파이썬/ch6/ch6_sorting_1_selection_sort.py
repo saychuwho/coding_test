@@ -1,4 +1,6 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/6/1.py 
+"""
 
 array = [7,5,9,0,3,1,6,2,4,8]
 

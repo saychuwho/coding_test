@@ -1,4 +1,6 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/9/1.py
+"""
 
 import sys
 input = sys.stdin.readline

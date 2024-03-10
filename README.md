@@ -72,12 +72,53 @@ Solutions are submitted and get successed. / "정확한 풀이"라고 받은 문
 
 ### Sorting Algorithm
 
+- Selection sort: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch6/ch6_sorting_1_selection_sort.py)
+- Insertion sort: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch6/ch6_sorting_1_insertion_sort.py)
+- Quick sort: [code from book: basic](/이것이_코딩_테스트이다_with_파이썬/ch6/ch6_sorting_1_quick_sort.py) / [code from book: efficient](/이것이_코딩_테스트이다_with_파이썬/ch6/ch6_sorting_1_quick_sort_efficient.py)
+- Bogosort:
+- Merge sort: 
+- Counting sort: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch6/ch6_sorting_1_counting_sort.py)
+- Bucket sort: 
+- Radix sort: 
+
 ### DFS/BFS
+
+- DFS: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch5/ch5_DFS_BFS_dfs_example.py)
+  - Topological ordering using DFS:
+  - Strongly Connected Components:
+- BFS: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch5/ch5_DFS_BFS_bfs_example.py)
+  - Finding bipartite:
+  - 
 
 ### Shortest Path Finding
 
+- Dijkstra's algorithm: [code from book: simple](/이것이_코딩_테스트이다_with_파이썬/ch9/ch9_shortest_path_1_dijkstra_simple.py) / [code from book: improved](/이것이_코딩_테스트이다_with_파이썬/ch9/ch9_shortest_path_1_dijkstra_improved.py)
+- Bellman-Ford algorithm:
+- Floyd-Warshaol algorithm: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch9/ch9_shortest_path_1_floyd_warshaol.py)
+- $A^*$ algorithm:
+- $\Theta^*$ algorithm:
+
 ### Dynamic Programming
+
+- Longest Common Subsequences:
+- Knapsack problem:
+- Maximal independent set:
 
 ### Greedy Algorithm
 
+- Activity Selection:
+- Job Scheduling:
+- Huffman Coding:
+- Minimum spanning tree
+  - Prim's algorithm:
+  - Kruskal's algorithm: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_kruskal.py)
+
 ### Another Algorithm
+
+- Linear time selection:
+- Randomized selection:
+- Binary serach: [code from book: iteration](/이것이_코딩_테스트이다_with_파이썬/ch7/ch7_binary_search_1_binary_search_iteration.py) / [code from book: recurrsive](/이것이_코딩_테스트이다_with_파이썬/ch7/ch7_binary_search_1_binary_search_recurssion.py)
+- Karger's algorithm:
+- Ford-Fulkerson algorithm:
+- Disjoint set algorithm: [code from book: basic](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_disjoint_set.py) / [code from book: improved](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_disjoint_set_improved.py)
+- Topological ordering: [code from book](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_topological_sorting.py)

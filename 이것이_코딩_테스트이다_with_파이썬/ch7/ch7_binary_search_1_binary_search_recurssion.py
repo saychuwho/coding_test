@@ -1,4 +1,5 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/7/2.py"""
 
 def binary_search(array, target, start, end):
     if start > end:

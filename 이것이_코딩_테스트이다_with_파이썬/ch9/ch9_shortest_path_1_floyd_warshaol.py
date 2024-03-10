@@ -1,4 +1,5 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/9/3.py"""
 
 INF = int(1e9)
 

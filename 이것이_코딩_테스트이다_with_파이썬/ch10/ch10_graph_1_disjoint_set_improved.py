@@ -1,4 +1,5 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/10/3.py"""
 
 # 경로 압축
 def find_parent(parent, x):

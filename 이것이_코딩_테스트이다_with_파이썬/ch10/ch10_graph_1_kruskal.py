@@ -1,4 +1,5 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/10/5.py"""
 
 """ 
 이 알고리즘은 단순히 minimum spanning tree의 cost를 구하는 알고리즘이다.

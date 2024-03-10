@@ -1,4 +1,5 @@
-""" example code from book """
+""" example code from book 
+https://github.com/ndb796/python-for-coding-test/blob/master/10/6.py"""
 
 """ DFS를 활용한 topological sorting도 있다. 수업시간에 배운. 그거는 나중에 따로 정리해보자 """
 
