@@ -50,15 +50,16 @@ When code starts with `""" example code from book """`, that code is example cod
 - [x] 챕터 10 그래프이론 / [간단한 서로소 집합](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_disjoint_set.py) / [개선된 서로소 집합](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_disjoint_set_improved.py) / [무방향 그래프에서 사이클 찾기](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_disjoint_set_cycle.py) / [크루스칼 알고리즘](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_kruskal.py) / [위상 정렬](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_1_topological_sorting.py) / [2번](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_2.py) / [3번](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_3.py) / [4번](/이것이_코딩_테스트이다_with_파이썬/ch10/ch10_graph_4.py)
 
 #### 파트 3 알고리즘 유형별 기출문제
-- [ ] 챕터 11 그리디 문제
-- [ ] 챕터 12 구현 문제
-- [ ] 챕터 13 DFS/BFS 문제
-- [ ] 챕터 14 정렬 문제
-- [ ] 챕터 15 이진 탐색 문제
-- [ ] 챕터 16 다이나믹 프로그래밍 문제
-- [ ] 챕터 17 최단 경로 문제
-- [ ] 챕터 18 그래프 이론 문제
-- [ ] 챕터 19 2020년 상반기 삼성전자 기출문제
+
+- [ ] 챕터 11 그리디 문제: [2:곱하기 혹은 더하기](/This_is_coding_test_with_python/part3/2.py) / [3: 문자열 뒤집기](/This_is_coding_test_with_python/part3/3.py)
+- [ ] 챕터 12 구현 문제: [7: 럭키 스트레이트](/This_is_coding_test_with_python/part3/7.py) / [8: 문자열 재정렬](/This_is_coding_test_with_python/part3/8.py)
+- [ ] 챕터 13 DFS/BFS 문제: [15: 특정 거리의 도시 찾기](/This_is_coding_test_with_python/part3/15.py)
+- [ ] 챕터 14 정렬 문제: [23: 국영수](/This_is_coding_test_with_python/part3/23.py)
+- [ ] 챕터 15 이진 탐색 문제: [27: 정렬된 배열에서 특정 수의 개수 구하기](/This_is_coding_test_with_python/part3/27.py)
+- [ ] 챕터 16 다이나믹 프로그래밍 문제: [31: 금광](/This_is_coding_test_with_python/part3/31.py)
+- [ ] 챕터 17 최단 경로 문제: [37: 플로이드](/This_is_coding_test_with_python/part3/37.py)
+- [ ] 챕터 18 그래프 이론 문제: [41: 여행 계획](/This_is_coding_test_with_python/part3/41.py)
+- [ ] 챕터 19 2020년 상반기 삼성전자 기출문제:
 
 ## [CodeUp](https://codeup.kr/index.php) problem solutions
 
